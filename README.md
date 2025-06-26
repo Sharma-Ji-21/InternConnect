@@ -2,6 +2,7 @@
 
 InternConnect is a powerful and user-friendly mobile application built with Flutter that connects **students** seeking internships with **companies** offering opportunities. Whether you're a student eager to launch your career or a company looking for passionate interns, InternConnect makes the process effortless and efficient.
 
+Download APK link: https://i.diawi.com/CYg5dK
 ---
 ## 🧑‍🎓 Student Features
 
