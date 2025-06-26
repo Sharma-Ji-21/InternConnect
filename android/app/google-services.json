@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854183847021",
+    "project_id": "internconnect-1db1f",
+    "storage_bucket": "internconnect-1db1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854183847021:android:57e297e1bf4aa81c574b64",
+        "android_client_info": {
+          "package_name": "com.example.intern_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbteSboTUoQVjS6OfDKcu1YhMzKvaZfI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
